@@ -12,12 +12,14 @@
         "files.exclude": {
             ".vscode/" : true,
             ".devcontainer/" : true,
-            ".gitignore" : true
+            ".gitignore" : true,
+            "eclcc.log" : true
         },
         "search.exclude": {
             ".vscode/" : true,
             ".devcontainer/" : true,
-            ".gitignore" : true
+            ".gitignore" : true,
+            "eclcc.log" : true
         }
     },
 
