@@ -8,7 +8,7 @@ UBUNTU_VARIANT=$1
 
 # Array containing HPCC versions to install;
 # order newest -> oldest
-HPCC_VERSION_LIST=(8.0.4 7.12.44 7.10.64 7.8.86)
+HPCC_VERSION_LIST=(8.0.6 7.12.46 7.10.64 7.8.86)
 
 #------------------------------------------------
 
